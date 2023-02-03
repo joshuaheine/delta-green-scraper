@@ -1,4 +1,5 @@
 Delta Green Scraper
+
 A web scraper for the Delta Green RPG, a modern-day conspiracy/horror RPG.
 
 Requirements
@@ -7,13 +8,15 @@ BeautifulSoup4
 Requests
 Installation
 Clone the repository to your local machine
-bash
+
 Copy code
+
 git clone https://github.com/joshuaheine/delta-green-scraper.git
 Navigate to the project directory
-bash
+
 Copy code
 cd delta-green-scraper
+
 Install the dependencies
 Copy code
 pip install -r requirements.txt
