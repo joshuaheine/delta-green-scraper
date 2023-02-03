@@ -23,15 +23,8 @@ Install the dependencies
 pip install -r requirements.txt
 ```
 
-## Usage
-```sh
-python delta_green_scraper.py
-```
-
-This will start the scraper and it will generate a delta_green.csv file with the scraped information.
-
-##Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you would like to help improve this project.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
